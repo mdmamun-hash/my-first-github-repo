@@ -1,0 +1,32 @@
+.header{
+  border: 15px solid;
+  border-color: bisque;
+  box-shadow: 15px 10px 15px;
+  height: 500px;
+  width: 600px;
+  font-size: 80px;
+  background-image: url(../cat.webp)
+  
+  
+  
+}
+.go{
+  font-size: 80px;
+  border: 25px solid plum;
+  /* box-shadow: 30px blueviolet; */
+  
+  border-radius: 25px;
+  margin: 50px;
+  padding: 30px;
+  text-align: justify;
+height: 600px;
+width: 400px;
+background-image: url(../go\ away.webp);
+background-repeat: no-repeat;
+
+background-position: center;
+color:black;
+background-color: skyblue;
+box-shadow: 20px 15px 25px blue;
+
+}
